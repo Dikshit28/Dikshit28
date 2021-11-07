@@ -1,3 +1,23 @@
+# Hi there 👋
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/dikshi28/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://api.daily.dev/get?r=dikshi28" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/Dikshit28/Dikshit28/devcard/devcard.svg"/>
+  </a>
+</div>
+
+<br />
+
 - 👋 Hi, I’m @Dikshit28
 - 👀 I’m interested in solving problems, creating cool stuff and hip-hop hehe
 - 🌱 I’m currently learning a lot of stuff :p
