@@ -22,7 +22,7 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: omBratteng
+          user: Dikshit28
           template: classic
           base: header, activity, community
           config_timezone: Europe/Oslo
@@ -37,5 +37,5 @@ jobs:
 
           # Notable contributions
           plugin_notable: yes
-          plugin_notable_filter: stars:>150
+          plugin_notable_filter: stars:>0
           plugin_notable_repositories: yes
