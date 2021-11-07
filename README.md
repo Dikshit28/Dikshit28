@@ -24,6 +24,8 @@
 - 💞️ I’m looking to collaborate for/on open source projects and innovative ideas
 - 📫 How to reach me sanju39194@gmail.com
 
+![Metrics](https://metrics.lecoq.io/Dikshit28?template=classic&base.community=0&languages=1&introduction=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FCalcutta)
+
 ![Metrics](https://metrics.lecoq.io/Dikshit28?template=terminal&base.community=0&languages=1&introduction=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FCalcutta)
 <!---
 Dikshit28/Dikshit28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
