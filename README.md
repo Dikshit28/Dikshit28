@@ -24,7 +24,7 @@
 - 💞️ I’m looking to collaborate for/on open source projects and innovative ideas
 - 📫 How to reach me sanju39194@gmail.com
 
-![Metrics](https://metrics.lecoq.io/Dikshit28?template=classic&introduction=I am a third-year CSE student, specializing in Data Science and AI, I have worked with Python, Front-end, Selenium, Databases, and ChatBots. I play with graphic designing and video editing in my free time. I'm currently looking for internships and training in the field of ML to enhance my skill and grow as an individual.&introduction.title=true&config.timezone=Asia%2FCalcutta&config.display=columns)
+![Metrics](https://metrics.lecoq.io/Dikshit28?template=classic&introduction=1&introduction.title=true&config.timezone=Asia%2FCalcutta&config.display=columns)
 <!---
 Dikshit28/Dikshit28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
