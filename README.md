@@ -1,5 +1,9 @@
 # Hi there 👋
 
+
+
+![Metrics](https://metrics.lecoq.io/Dikshit28?template=classic&introduction=1&introduction.title=true&config.timezone=Asia%2FCalcutta&config.display=columns)
+
 <div align="left">
   <a href="https://www.linkedin.com/in/dikshi28/">
     <img
@@ -23,8 +27,6 @@
 - 🌱 I’m currently learning a lot of stuff :p
 - 💞️ I’m looking to collaborate for/on open source projects and innovative ideas
 - 📫 How to reach me sanju39194@gmail.com
-
-![Metrics](https://metrics.lecoq.io/Dikshit28?template=classic&introduction=1&introduction.title=true&config.timezone=Asia%2FCalcutta&config.display=columns)
 <!---
 Dikshit28/Dikshit28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
