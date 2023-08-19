@@ -1,12 +1,17 @@
-# Hi there 👋
+# Hi, I'm Dikshit! 👋
 
 <br />
 
-- 👋 Hi, I’m @Dikshit28
-- 👀 I’m interested in solving problems, creating cool stuff and hip-hop hehe
-- 🌱 I’m currently learning a lot of stuff :p
-- 💞️ I’m looking to collaborate for/on open source projects and innovative ideas
-- 📫 How to reach me sanju39194@gmail.com
+
+- 🖥️ Software Engineer by day, problem solver, and creator of cool things by night.
+- 🌱 Currently diving deep into a plethora of technologies. Learning is my superpower!
+- 🚀 Thrilled to have completed a rewarding internship at Hashedin By Deloitte, where I honed my skills in Cloud, Data Engineering, Gen AI, React JS, Java Spring Boot, and Flutter.
+- 🛠️ Spearheading innovative projects, like creating a Cab Booking Chatbot, that led my team to a well-deserved 2nd prize.
+- 🎧 Fun fact: I'm a hip-hop enthusiast, because even coding needs a good beat!
+- 💡 Excited about collaborating on open source projects and turning brilliant ideas into reality.
+- 📫 Reach me at sanju39194@gmail.com for any collaboration, tech chat, or just to share your favorite hip-hop track!
+
+Let's connect, create, and code together! 🚀
 ## 📚Daily.dev Card
 <p align="center"> 
     <a href="https://api.daily.dev/get?r=dikshi28" target="_blank" align="left">
